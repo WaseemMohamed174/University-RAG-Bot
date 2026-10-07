@@ -72,7 +72,7 @@ data/pdfs, data/docs   # put your source documents here (git-ignored)
 
 ### 2. Install
 ```bash
-git clone https://github.com/<your-username>/University-RAG-Bot.git
+git clone https://github.com/<WaseemMohamed174>/University-RAG-Bot.git
 cd University-RAG-Bot
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
