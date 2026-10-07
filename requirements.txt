@@ -1,0 +1,8 @@
+aiogram>=3.13
+google-genai>=1.0
+qdrant-client>=1.12
+aiosqlite>=0.20
+pydantic>=2.6
+pypdf>=4.0
+python-docx>=1.1
+python-dotenv>=1.0
